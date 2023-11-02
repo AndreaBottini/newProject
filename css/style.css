@@ -3,11 +3,7 @@
     padding: 0;
     box-sizing: border-box;
   }
-
-  .style-page{
-    padding: 30px;
-  }
-
+  
   .title {
     color: green;
   }
